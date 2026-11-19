@@ -58,10 +58,10 @@ lib/
 
 ## Capturas de tela
 
-| Cadastro do veículo | Dashboard | Abastecimentos |
+| Cadastro do veículo | Novo abastecimento | Abastecimentos |
 |---|---|---|
-| ![Cadastro](docs/screenshots/cadastro.png) | ![Dashboard](docs/screenshots/dashboard.png) | ![Lista](docs/screenshots/abastecimentos.png) |
+| ![Cadastro](docs/screenshots/cadastro.png) | ![Novo abastecimento](docs/screenshots/novo-abastecimento.png) | ![Lista](docs/screenshots/abastecimentos.png) |
 
-| Novo abastecimento | Meu veículo |
-|---|---|
-| ![Novo](docs/screenshots/novo-abastecimento.png) | ![Veículo](docs/screenshots/veiculo.png) |
+| Dashboard (resumo e valor por abastecimento) | Dashboard (consumo e custo por km) | Meu veículo |
+|---|---|---|
+| ![Dashboard](docs/screenshots/dashboard.png) | ![Dashboard 2](docs/screenshots/dashboard-2.png) | ![Veículo](docs/screenshots/veiculo.png) |
