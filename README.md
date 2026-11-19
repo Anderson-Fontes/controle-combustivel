@@ -112,7 +112,7 @@ O APK é gerado automaticamente pelo GitHub Actions a cada push na branch `main`
 1. Abra a aba **Actions** do repositório e entre na execução mais recente de **Build APK**.
 2. Baixe o artefato `controle-combustivel-apk` e extraia o `.zip`.
 3. Envie o `app-release.apk` para o celular e instale (pode ser necessário permitir a instalação de fontes desconhecidas).
-```
+
 
 ## Capturas de tela
 
